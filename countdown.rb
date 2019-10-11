@@ -4,5 +4,4 @@ def countdown_with_sleep
   counter sleep 1.seconds 
   puts "#{count} SECOND(S)!"
   puts "HAPPY NEW YEAR!"
-def countdown
 end
